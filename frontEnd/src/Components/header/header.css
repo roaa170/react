@@ -1,0 +1,14 @@
+.nn{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-content:space-between ;
+}
+.hh{
+    align-items: flex-end;
+}
+
+#l{
+    position: relative;
+    top: 20%;
+}
